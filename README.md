@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning all about electronics and improve my VHDL skills.
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me: fabian-franz@ffengineering.com
+- Also visit my GitLab Profile: https://gitlab.com/franzelfx
 
 <!---
 Franzelfx/Franzelfx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
