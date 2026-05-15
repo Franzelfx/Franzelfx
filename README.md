@@ -11,7 +11,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian-franz-93188a1a5/)
 [![NexPatch](https://img.shields.io/badge/NexPatch_AI-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nexpatch.ai)
-[![Email](https://img.shields.io/badge/fabian.franz@nexpatch.ai-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabian.franz@nexpatch.ai)
+[![Email](https://img.shields.io/badge/fabian@nexpatch.ai-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabian.franz@nexpatch.ai)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/franzelfx)
 
 </div>
