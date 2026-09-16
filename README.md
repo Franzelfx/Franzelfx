@@ -73,24 +73,6 @@ My favourite problems sit where hardware, data and software meet.
 
 ---
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img width="100%" src="./profile-summary-card-output/transparent/0-profile-details.svg" alt="Profile details"/>
-</p>
-
-<p align="center">
-  <img height="180" src="./profile-summary-card-output/transparent/3-stats.svg" alt="GitHub stats"/>
-  <img height="180" src="./profile-summary-card-output/transparent/2-most-commit-language.svg" alt="Most commit language"/>
-</p>
-
-<p align="center">
-  <img height="180" src="./profile-summary-card-output/transparent/1-repos-per-language.svg" alt="Repos per language"/>
-  <img height="180" src="./profile-summary-card-output/transparent/4-productive-time.svg" alt="Productive time"/>
-</p>
-
----
-
 ## 🚀 Beyond code
 - RF and aerospace hardware through the DLR/ESA REXUS/BEXUS student program
 - Building a DIY 48 V LiFePO4 solar storage system
