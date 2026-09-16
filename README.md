@@ -9,6 +9,12 @@ My favourite problems sit where hardware, data and software meet.
 
 <sub>Co-founder at NexPatch AI · based in Leipzig/Erfurt, Germany</sub>
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Franzelfx&label=Profile%20views&color=0A66C2&style=flat-square" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/Franzelfx?label=Followers&color=1B6FB8&style=flat-square" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Franzelfx?label=Stars&color=00C896&style=flat-square" alt="Stars"/>
+</p>
+
 ---
 
 ## 🔧 What I build
@@ -38,6 +44,7 @@ My favourite problems sit where hardware, data and software meet.
 |---|---|---|
 | [swarmpipe](https://github.com/Franzelfx/swarmpipe) | Pipeline-parallel model execution across a few ordinary machines with different GPUs, no cluster manager required. *Pre-alpha.* | Python · PyTorch |
 | [nescio](https://github.com/Franzelfx/nescio) | Calibrated abstention for self-hosted LLMs: a hidden-state probe plus conformal calibration, so a local model can say "I don't know" with a coverage guarantee. *Design phase.* | Python |
+
 ---
 
 ## 🛠️ Tech stack
@@ -66,6 +73,24 @@ My favourite problems sit where hardware, data and software meet.
 
 ---
 
+## 📊 GitHub stats
+
+<p align="center">
+  <img width="100%" src="./profile-summary-card-output/transparent/0-profile-details.svg" alt="Profile details"/>
+</p>
+
+<p align="center">
+  <img height="180" src="./profile-summary-card-output/transparent/3-stats.svg" alt="GitHub stats"/>
+  <img height="180" src="./profile-summary-card-output/transparent/2-most-commit-language.svg" alt="Most commit language"/>
+</p>
+
+<p align="center">
+  <img height="180" src="./profile-summary-card-output/transparent/1-repos-per-language.svg" alt="Repos per language"/>
+  <img height="180" src="./profile-summary-card-output/transparent/4-productive-time.svg" alt="Productive time"/>
+</p>
+
+---
+
 ## 🚀 Beyond code
 - RF and aerospace hardware through the DLR/ESA REXUS/BEXUS student program
 - Building a DIY 48 V LiFePO4 solar storage system
@@ -74,7 +99,7 @@ My favourite problems sit where hardware, data and software meet.
 ---
 
 ## 📬 Contact
-[![Website](https://img.shields.io/badge/fabianfranz.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fabianfranz.dev)
+[![Website](https://img.shields.io/badge/ffengineering.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ffengineering.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian-franz-93188a1a5/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C896,50:1B6FB8,100:0A66C2&height=110&section=footer" width="100%"/>
