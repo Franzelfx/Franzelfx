@@ -51,11 +51,6 @@ My favourite problems sit where hardware, data and software meet.
 
 ---
 
-## 🔭 Currently exploring
-- *e.g. new loss functions for probabilistic forecasting*
-- *e.g. a DIY 48V LiFePO4 storage system with custom monitoring*
-- *e.g. a PCB business card*
-
 ## 🚀 Beyond code
 - RF and aerospace hardware through the DLR/ESA REXUS/BEXUS student program
 - *drones, energy systems, whatever you tinker with*
